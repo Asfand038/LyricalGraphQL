@@ -6,6 +6,7 @@ A simple app which enables the user to create song, add lyrics to the song, like
 
 **GraphQL** consumption in react apps using **Apollo Client**.
 
+## How to run?
 There is another public repository [lyrical-graphql-server](https://github.com/Asfand038/lyrical-graphql-server). Follow the guidelines in that repository to run server on your local development machine. After you successfully run the server, you can run this app on your local development machine by following the steps provided below:
 
 1. Clone the repo or download zip file.
